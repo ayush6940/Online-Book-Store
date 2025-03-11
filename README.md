@@ -51,6 +51,5 @@ This is the my thrid Projec using JSP and Servlet.
 ![user_view_old_book](https://user-images.githubusercontent.com/60816519/158251702-dfeabd0c-88c4-4b33-ab80-8d108e62369d.JPG)
 
 ## Author
-- Jatender Khatri
-- https://github.com/Jatender-Khatri
-- If You hava any Query Please Contact Me on Gmail : kumarjatender0@gmail.com
+- Ayush johari
+
